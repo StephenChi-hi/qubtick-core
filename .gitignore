@@ -45,6 +45,8 @@ profile-*
 # vim swap files
 *.swp
 
+.env
+
 # webstorm
 .idea
 
