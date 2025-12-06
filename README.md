@@ -1,7 +1,7 @@
 
 ---
 
-# **QubTick Core **
+# **QubTick Core**
 
 ### *Enabling Metered, Automated, Machine-to-Machine Payments on Qubic*
 
